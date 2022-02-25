@@ -1,0 +1,21 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(41, 26, 18, 0.8), rgba(255, 255, 255, 0.2)), url(../../images/banner.jpg);
+	color: white;
+	padding: 220px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	color: white;
+	font-family: 'Mulish', sans-serif;
+	font-size: 50px;
+}
+.banner h2 {
+	color: white;
+	font-family: 'Nothing You Could Do', cursive;
+	font-size: 24px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 50px;
+}
